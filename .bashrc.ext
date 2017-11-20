@@ -1,2 +1,0 @@
-# Prompt <current shortform dir> => [command]
-PS1='\[\e[1;96m\] \W\[\e[1;92m\] →  \[\e[0m\]'
